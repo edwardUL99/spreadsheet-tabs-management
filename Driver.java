@@ -1,8 +1,7 @@
-/** Driver program for CS4141 Programming Assignment
- * Author: Edward Lynch-Milner
- * Student ID: 18222021
- * Course: LM121 - Computing Technologies
- */
+/**Program created to test each method from the Spreadsheet class
+*Author: Edward Lynch-Milner
+*Version:13-02-2019
+**/
 public class Driver {
     public static void main(String[] args) {
         //Creating a list of 32 for ease of testing
