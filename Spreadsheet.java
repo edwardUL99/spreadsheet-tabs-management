@@ -1,8 +1,6 @@
-/** This is the class which will provide the methods for the CS4141 Spreadsheet
- * Assignment.
+/** Class created for the management of an array containing spreadsheet tab names
+ * Learning objectives were to appreciate the background of the methods in ArrayLists
  * Author: Edward Lynch-Milner
- * Student ID: 18222021
- * Course: LM121 - Computing Technologies
  */
 public class Spreadsheet {
     private int nextIndex = 3;
