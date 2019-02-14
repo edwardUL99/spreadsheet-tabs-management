@@ -1,6 +1,7 @@
 /**Program created to test each method from the Spreadsheet class
 *Author: Edward Lynch-Milner
 *Version:13-02-2019
+*Feel free to add your own code to try out the class
 **/
 public class Driver {
     public static void main(String[] args) {
